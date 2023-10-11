@@ -7,6 +7,9 @@
     <groupId>com.example</groupId>
     <artifactId>my-web-app</artifactId>
     <version>1.0</version>
+    <name>maven-generate-war</name>
+    <packaging>war</packaging>
+    <description>Spring boot project to demonstrate war file generation</description>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
